@@ -1,6 +1,6 @@
-![Daniel Iwach Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+![Daniel Iwach Banner]
 
-<img alt="Saludo" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<img alt="Saludo" src="./logo-github" width='40' align="left"/>
 
 <h2 align="left">¡Hola! Soy Daniel Iwach</h2>
 
