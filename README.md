@@ -1,4 +1,4 @@
-![Daniel Iwach Banner].
+![Daniel Iwach Banner](./logo-github.png)
 
 <img alt="Saludo" src="./logo-github.png" width='80' align="left"/>
 
