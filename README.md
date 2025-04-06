@@ -1,6 +1,6 @@
 ![Daniel Iwach Banner].
 
-<img alt="Saludo" src="./logo-github.png" width='40' align="left"/>
+<img alt="Saludo" src="./logo-github.png" width='80' align="left"/>
 
 <h2 align="left">¡Hola! Soy Daniel Iwach</h2>
 
