@@ -34,24 +34,11 @@
 
 ---
 
-### ⚙️ &nbsp;Estadísticas de GitHub
-
-<p align="center">
-  <a href="https://github.com/danieliwach">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danieliwach&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/danieliwach">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danieliwach&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
----
-
 ### 🤝🏻 &nbsp;Conectemos
 
 <p align="center">
-  <a href="mailto:danieliwach@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/danieliwach"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:daniel.g.iwach@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/daniel-iwach/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/danieliwach"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
