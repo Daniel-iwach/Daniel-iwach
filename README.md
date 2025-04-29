@@ -7,7 +7,6 @@
 
 🎓 &nbsp;Tengo 19 años y actualmente estudio una Tecnicatura Universitaria en Programación en la **UTN (Universidad Tecnológica Nacional)**.  
 💡 &nbsp;Me apasiona la tecnología y estoy constantemente aprendiendo nuevas herramientas para el desarrollo de software.  
-🔧 &nbsp;Tengo conocimientos en **Java, Python, Arduino, SQL, SQLite, HTML, CSS, Spring**, y herramientas como **GitHub, IntelliJ IDEA y Visual Studio**.  
 🚀 &nbsp;Mi objetivo es crecer como desarrollador backend y formar parte de proyectos que me desafíen a seguir aprendiendo.  
 📬 &nbsp;¡Podés contactarme para colaborar, compartir ideas o simplemente charlar sobre programación!
 
