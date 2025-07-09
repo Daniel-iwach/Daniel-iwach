@@ -1,4 +1,4 @@
-![Daniel Iwach Banner](./logo-github.png)
+![Daniel Iwach Banner](./nuevo-logo.png)
 
 
 <h2 align="left">¡Hola! Soy Daniel Iwach</h2>
