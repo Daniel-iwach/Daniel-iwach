@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-🎓 &nbsp;Tengo 19 años y actualmente estudio una Tecnicatura Universitaria en Programación en la **UTN (Universidad Tecnológica Nacional)**.  
+🎓 &nbsp;Tengo 20 años y actualmente estudio una Tecnicatura Universitaria en Programación en la **UTN (Universidad Tecnológica Nacional)**.  
 💡 &nbsp;Me apasiona la tecnología y estoy constantemente aprendiendo nuevas herramientas para el desarrollo de software.  
 🚀 &nbsp;Mi objetivo es crecer como desarrollador backend y formar parte de proyectos que me desafíen a seguir aprendiendo.  
 📬 &nbsp;¡Podés contactarme para colaborar, compartir ideas o simplemente charlar sobre programación!
